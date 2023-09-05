@@ -24,3 +24,4 @@ public class State {
     @JoinColumn(name = "country_id")
     private Country country;
 }
+    
